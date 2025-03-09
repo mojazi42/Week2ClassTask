@@ -21,4 +21,5 @@
 ```sh
 git clone https://github.com/mojazi42/Week2ClassTask.git
 
-[Screenshot_20250309-150146_My Application](https://github.com/user-attachments/assets/a6d855c2-29c4-4e51-8570-761d4a594253)
+
+![Screenshot_20250309-150146_My Application](https://github.com/user-attachments/assets/fb48c5a0-19f0-4795-a29f-58d0786a51bc)
